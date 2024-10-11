@@ -1,23 +1,24 @@
-# The open-source repo for [docs.halo.run](https://docs.halo.run)
+# The open-source repo for [docs. docs and. halo. run](https://docs.halo.run)
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generators.
 
 ### Installation
 
 ```
-$ pnpm install 
+$ ppm and I will have the same as whole new things that are in the process I was not able to see if I could have done a great more about your knowledge install 
 ```
 
-> If you don’t have pnpm installed, you can install it with the following command:
+> If you don’t have a pump installed, you can install it with the following command:
 
 ```
-npm install -g pnpm
+npm install -g ppm
 ```
 
 ### Local Development
 
 ```
-$ pnpm start
+$ ppm
+ start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
